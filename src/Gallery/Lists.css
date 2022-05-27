@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Helvetica-rounded";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Helvetica-rounded"), url("Helvetica-rounded.otf") format("otf");
+}
+
+h3 {
+  margin-left: 120px;
+  display: inline-block;
+  font-family: "Helvetica-rounded";
+  font-weight: 200;
+  color: aqua;
+}
+
+span {
+  /* margin-left: 455px; */
+  display: flex;
+  display: inline-block;
+  align-items: center;
+}
+
+h1 {
+  margin-left: 1000px;
+  display: inline-block;
+  font-family: "Helvetica-rounded";
+  font-weight: 10;
+  color: aqua;
+  text-align: center;
+}
